@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Memo_Optimization/static/css/main.3c0dd185.css",
+    "main.js": "/Memo_Optimization/static/js/main.18fd87e5.js",
+    "index.html": "/Memo_Optimization/index.html",
+    "main.3c0dd185.css.map": "/Memo_Optimization/static/css/main.3c0dd185.css.map",
+    "main.18fd87e5.js.map": "/Memo_Optimization/static/js/main.18fd87e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c0dd185.css",
+    "static/js/main.18fd87e5.js"
+  ]
+}
